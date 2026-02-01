@@ -39,8 +39,8 @@ jobs:
       - name: Install, build, and upload site
         uses: withastro/action@v5
         with:
-          path: .
-          node-version: 22
+          # path: .
+          # node-version: 22
           package-manager: pnpm@latest
           build-cmd: pnpm run build
   deploy:

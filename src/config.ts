@@ -182,8 +182,8 @@ export interface SiteConfig {
 export const siteConfig: SiteConfig = {
   // Site Information
   // [CONFIG:SITE_URL]
-  site: "https://rafshawn.github.io/",
-  base: "/braindump",
+  site: "https://rafshawn.github.io",
+  base: "/braindump/",
   // [CONFIG:SITE_TITLE]
   title: "Braindump",
   // [CONFIG:SITE_DESCRIPTION]
