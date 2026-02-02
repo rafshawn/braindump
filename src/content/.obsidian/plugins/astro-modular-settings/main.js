@@ -151,7 +151,9 @@ var FONT_OPTIONS = [
   "JetBrains Mono",
   "Source Code Pro",
   "IBM Plex Mono",
-  "Cascadia Code"
+  "Cascadia Code",
+  "DM Sans",
+  "Plus Jakarta Sans",
 ];
 var DEFAULT_SETTINGS = {
   runWizardOnStartup: true,

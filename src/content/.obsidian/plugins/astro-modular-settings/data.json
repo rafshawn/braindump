@@ -1,7 +1,7 @@
 {
   "runWizardOnStartup": true,
   "currentTemplate": "standard",
-  "currentTheme": "solarized",
+  "currentTheme": "rose-pine",
   "customThemeFile": "custom",
   "contentOrganization": "folder-based",
   "themeColors": {
@@ -55,17 +55,21 @@
       {
         "title": "About",
         "url": "/about/"
+      },
+      {
+        "title": "New Page",
+        "url": "/braindump"
       }
     ],
     "social": [
       {
-        "title": "X",
-        "url": "https://x.com/davidvkimball",
-        "icon": "x-twitter"
+        "title": "Linkedin",
+        "url": "https://linkedin.com/in/shawn-adrian",
+        "icon": "linkedin"
       },
       {
         "title": "GitHub",
-        "url": "https://github.com/davidvkimball",
+        "url": "https://github.com/rafshawn",
         "icon": "github"
       }
     ]
@@ -175,16 +179,16 @@
     }
   },
   "typography": {
-    "headingFont": "Inter",
-    "proseFont": "Inter",
+    "headingFont": "Plus Jakarta Sans",
+    "proseFont": "Source Sans Pro",
     "monoFont": "JetBrains Mono",
-    "fontSource": "local",
+    "fontSource": "cdn",
     "fontDisplay": "swap",
     "customFonts": {
-      "heading": "",
-      "prose": "",
-      "mono": "",
-      "urls": ""
+      "heading": "Plus Jakarta Sans",
+      "prose": "Source Sans Pro",
+      "mono": "JetBrains Mono",
+      "urls": "https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap"
     }
   },
   "optionalFeatures": {
