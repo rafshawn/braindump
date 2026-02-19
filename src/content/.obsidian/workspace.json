@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53d12650ca8859ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Java/_conways-game-of-life/index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "385d3f218d6ccaec",
+    "type": "split",
+    "children": [
+      {
+        "id": "297ff6aacee26d35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2754113b4e8a8795",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8798bb2abd2095d5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "font",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7c1fa170a478cb0c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 285.5
+  },
+  "right": {
+    "id": "ed4c6001ffcf5e37",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba4308da7716d18c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac4c821ac91a6cfc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/Java/_conways-game-of-life/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for index"
+            }
+          },
+          {
+            "id": "c919d7f9d020f8e3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "braindump/Real Time Operating Systems (RTOS)/test-note.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from test-note"
+            }
+          },
+          {
+            "id": "d27bc5746a011346",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2214f912728965dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "braindump/Real Time Operating Systems (RTOS)/test-note.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of test-note"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "astro-modular-settings:Open wizard": false,
+      "obsidian-git:Open Git source control": false,
+      "iconic:Open rulebook": false,
+      "seo:Open SEO audit panel": false,
+      "astro-composer:Open project terminal": false,
+      "astro-composer:Edit astro config": false,
+      "home-base:Open home base": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "53d12650ca8859ad",
+  "lastOpenFiles": [
+    "docs/sourcetree-and-git-setup/index.md",
+    "docs/sourcetree-and-git-setup/sourcetree-setup.md",
+    "posts/obsidian-livesync-cloudflare/index.md",
+    "posts/_my-favourite-artists/index.md",
+    "posts/_my-favourite-artists",
+    "docs/configuration.md",
+    "docs/api.md",
+    "pages/resume/index.md",
+    "pages/resume/resume.pdf",
+    "docs/Java/_conways-game-of-life/index.md",
+    "docs/Java/_conways-game-of-life",
+    "pages/resume/my-resume.pdf",
+    "posts/obsidian-embeds-demo.md",
+    "posts/formatting-reference.md",
+    "projects/astro-composer.md",
+    "pages/about/index.md",
+    "docs/installing-obsidian.md",
+    "pages/contact.md",
+    "pages/thank-you.md",
+    "special/404.md",
+    "special/docs.md",
+    "special/posts.md",
+    "special/projects.md",
+    "special/home.md",
+    "projects/index/index.md",
+    "projects/vault-cms/index.md",
+    "pages/my-resume.md",
+    "pages/resume",
+    "pages/Untitled",
+    "pages/about/about-photo.jpg",
+    "docs/Java/_mp3-player/index.md",
+    "docs/Java/_imap-pop3-email-client-for-mobile-devices/index.md",
+    "docs/Java/_huffman-compression/index.md",
+    "docs/attachments/obsidian-cover.png",
+    "docs/attachments/astro-modular-configuration.png",
+    "docs/Java/_mp3-player",
+    "bases/Home.base",
+    "docs/Java/_imap-pop3-email-client-for-mobile-devices",
+    "docs/Java/Huffman Compression/_huffman-compression",
+    "posts/post-test/nasi_mcd.jpg",
+    "projects/vault-cms/glacier.png",
+    "pages/attachments/water.png",
+    "docs/RTOS/assets/buddy_allocation.png",
+    "docs/RTOS/assets/memory_location.png",
+    "docs/RTOS/5. Memory Allocation/buddy_allocation.png",
+    "docs/RTOS/5. Memory Allocation/memory_location.png"
+  ]
+}
